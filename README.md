@@ -1,0 +1,1 @@
+A rust app/library boilerplate with embedded static webapp served by axum.
